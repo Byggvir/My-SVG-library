@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000px"
+   height="1000px"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg27"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Seestern.svg">
+  <defs
+     id="defs21" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="319.1878"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid34" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <style>
+    .arm {
+        fill:#00FFFF;
+        fill-opacity:1;
+        fill-rule:evenodd;
+        stroke:black;
+        stroke-width:2;
+        stroke-linecap:square;
+        stroke-linejoin:round;
+        stroke-opacity:1;
+    }
+
+      .arm1 {
+        fill:#FFFF00;
+        fill-opacity:1;
+        fill-rule:evenodd;
+        stroke: black;
+        stroke-width:2;
+        stroke-linecap:square;
+        stroke-linejoin:round;
+        stroke-opacity:1;
+    }
+      .arm2 {
+        fill:#dddd00;
+        fill-opacity:1;
+        fill-rule:evenodd;
+        stroke: black;
+        stroke-width:2;
+        stroke-linecap:square;
+        stroke-linejoin:round;
+        stroke-opacity:1;
+    }
+  </style>
+
+  <!-- Seestern-Arm -->
+  
+    <defs id="seesternarm">
+      <g id="arm" >
+        <path
+            d="M 0,0
+            L 0,300 
+            L 58.7785252292473, 80,9016994374947
+            z"
+            id="arm1" 
+            class="arm1" />
+        <path
+            d="M 0,0 
+            L 0,300 
+            L -58.7785252292473, 80,9016994374947
+            z"
+            id="arm2" 
+            class="arm2" />
+        <circle x="30" y="100" rx="16" ry="20" />
+      
+      </g>
+    </defs>
+
+    <!-- Seestern -->
+  
+    <g class="arm">
+        <use xlink:href="#arm" x="500" y="400" class="arm1" />
+        <use xlink:href="#arm" x="500" y="400" class="arm1" transform="rotate(-72 500 400)" />
+        <use xlink:href="#arm" x="500" y="400" class="arm1" transform="rotate(-144 500 400)" />
+        <use xlink:href="#arm" x="500" y="400" class="arm1" transform="rotate(-216 500 400)" />
+        <use xlink:href="#arm" x="500" y="400" class="arm1" transform="rotate(-288 500 400)" />
+    </g>
+</svg>
