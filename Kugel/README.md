@@ -1,4 +1,4 @@
-# Zeichen einer Kugel mit Koordinatennetz 
+# Zeichnen einer Kugel mit Koordinatennetz 
 
 Das Koordinatennetz der Erdkugel soll mittels einer [orthografischen Azimutalprojektion](https://de.wikipedia.org/wiki/Orthografische_Azimutalprojektion) auf eine Ebene abgebildet werden.
 Die Kugel wird um einen Winkel 90 - &alpha; &gt; 0 um die West-Ost-Achse zum Betrachter gekippt. Der Fall &alpha; = 0 ist trivial.
