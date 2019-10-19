@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Fuss.svg"
+   inkscape:export-filename="/home/thomas/Nextcloud/Wappen/Fuss.svg.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   version="1.1">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.29734127"
+     inkscape:cx="561.25984"
+     inkscape:cy="396.85039"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="fuss" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Leer</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thomas Arend</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>Deutsch</dc:language>
+        <dc:date>14.10.2019</dc:date>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Thomas Arend</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:description>Fussabdruck eines rechten, menschlichen Fusses</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <style
+     id="fussstyles"> .fuss { fill:blue; fill-opacity:1; stroke:black; stroke-width:1.0 } </style>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="fuss"
+     transform="translate(0,0)">
+    <g
+       id="g832"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <ellipse
+         ry="15"
+         rx="17"
+         cy="140.4425"
+         cx="43.377975"
+         id="zeh1"
+         class="fuss"
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1" />
+      <ellipse
+         ry="10"
+         rx="12"
+         cy="112.4425"
+         cx="34.377975"
+         id="zeh2"
+         class="fuss"
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1" />
+      <ellipse
+         ry="10"
+         rx="12"
+         cy="91.442505"
+         cx="43.377975"
+         id="zeh3"
+         class="fuss"
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1" />
+      <ellipse
+         ry="10"
+         rx="12"
+         cy="74.442505"
+         cx="58.377975"
+         id="zeh4"
+         class="fuss"
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1" />
+      <ellipse
+         ry="10"
+         rx="12"
+         cy="63.442509"
+         cx="81.377975"
+         id="zeh5"
+         class="fuss"
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1" />
+      <path
+         sodipodi:nodetypes="cccccccccccc"
+         inkscape:connector-curvature="0"
+         id="sohle"
+         d="m 101.37798,155.44251 c -22.672885,7.31598 -33.282332,-4.42822 -35.556296,-28.58458 -1.993622,-18.05259 6.334026,-33.712332 14.074447,-42.316312 6.804102,-6.49848 12.250223,-9.44602 18.695893,-18.3638 5.038296,-6.48848 15.436156,-8.06291 30.691476,-5.52884 13.56777,2.757188 31.15455,8.37676 44.53362,14.46702 33.28221,14.069377 45.34395,9.98755 76.62513,12.13747 16.42135,2.28949 33.07668,11.20842 33.13693,26.406172 -0.15982,6.83509 1.00761,15.71993 -9.47666,23.55161 -19.10886,10.8549 -32.18648,7.7229 -45.64186,-0.73351 -14.5879,-10.7155 -15.38039,-15.79752 -34.01863,-26.76966 -44.97056,-22.232407 -56.30032,29.56197 -93.06405,45.73443 z"
+         class="fuss"
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1" />
+    </g>
+  </g>
+</svg>

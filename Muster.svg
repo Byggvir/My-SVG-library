@@ -16,15 +16,44 @@
    sodipodi:docname="Muster.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
-     id="metadata16">
+     id="metadata5">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Muster SVG</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thomas Arend</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>Deutsch</dc:language>
+        <dc:date>14.10.2019</dc:date>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Thomas Arend</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:description>Muster SVG</dc:description>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
@@ -72,6 +101,76 @@
          class="kreis" />
     </g>
   </defs>
+<!--
+
+svg tags
+
+    Rectangle <rect> 
+	<rect x="50" y="20" width="150" height="150" rx="20" ry="20" />
+
+    Circle <circle>
+	<circle cx="50" cy="50" r="40" />
+
+    Ellipse <ellipse>
+	<ellipse cx="240" cy="100" rx="220" ry="30" />
+
+    Line <line>
+	<line x1="0" y1="0" x2="200" y2="200" />
+ 
+    Polyline <polyline>
+	<polyline points="20,20 40,25 60,40 80,120 120,140 200,180" />
+
+    Polygon <polygon>
+	<polygon points="200,10 250,190 160,210" />
+
+    Path <path>
+	<path d="M150 0 L75 200 L225 200 Z" />
+
+    Text <text>
+	<text x="0" y="15"  transform="rotate(30 20,40)">I love SVG!</text>
+	
+	oder
+  	
+	<a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
+    		<text x="0" y="15" fill="red">I love SVG!</text>
+  	</a>
+-->
+
+<!--
+
+path commands
+
+
+    M = moveto
+	M x y 
+    L = lineto
+	L x y
+    H = horizontal lineto
+	H x
+    V = vertical lineto
+	V y
+
+    C = curveto
+	C x1 y1 x2 y2 x y
+
+    S = smooth curveto
+	C y2 y2 x y
+
+    Q = quadratic Bezier curve
+	Q x1 y1 x y
+
+    T = smooth quadratic Bezier curveto
+	T x y
+
+    A = elliptical Arc
+	A x y rx ry x-Achsen-Rotation large-arc-flag sweep-flag
+
+    Z = closepath
+
+    R = Catmull-Rom
+
+    B = Bearing
+-->
 
   <use xlink:href="#kreis" x="20" y="20" />
 </svg>

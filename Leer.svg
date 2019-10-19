@@ -1,28 +1,21 @@
-<?php
-    header('Content-Type: image/svg+xml');
-?>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns="http://www.w3.org/2000/svg"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1000"
-   height="1000"
-   viewBox="0 0 1000 1000"
-   fill="yellow"
-   stroke="blue"
-   stroke-width="1"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="muster-svg.php">
+   sodipodi:docname="Leer.svg">
   <title
      id="title48">Leer</title>
   <defs
@@ -86,92 +79,8 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  
-<style>
-    .arm {
-        fill:#00FFFF;
-        fill-opacity:1;
-        fill-rule:evenodd;
-        stroke:black;
-        stroke-width:2;
-        stroke-linecap:square;
-        stroke-linejoin:round;
-        stroke-opacity:1;
-    }
-
-      .arm1 {
-        fill:#FFFF00;
-        fill-opacity:1;
-        fill-rule:evenodd;
-        stroke: black;
-        stroke-width:2;
-        stroke-linecap:square;
-        stroke-linejoin:round;
-        stroke-opacity:1;
-    }
-      .arm2 {
-        fill:#dddd00;
-        fill-opacity:1;
-        fill-rule:evenodd;
-        stroke: black;
-        stroke-width:2;
-        stroke-linecap:square;
-        stroke-linejoin:round;
-        stroke-opacity:1;
-    }
-</style>
-
-<?php
-
-  $heute = getdate();
-  
-  $r = $_GET["r"];
-  $s = $_GET["s"];
-  if ( $r == "" or ! is_numeric($r) ) {
-    $r=100;
-  }
-  
-  $r=$r+$heute['yday'];
-  
-  if ( $s == "" or ! is_numeric($s) ) {
-    $s=20;
-  }
-  $x = $r * ($s /100) * sin(deg2rad(36)) ;
-  $y = $r * ($s /100) * cos(deg2rad(36)) ;
-
-print <<<END
-  <defs id="seesternarm">
-      <g id="arm" >
-        <path
-            d="M 0,0
-            L 0,$r 
-            L $x, $y
-            z"
-            id="arm1" 
-            class="arm1" />
-        <path
-            d="M 0,0 
-            L 0,$r 
-            L -$x, $y
-            z"
-            id="arm2" 
-            class="arm2" />
-    
-      </g>
-    </defs>
-
-    <!-- Seestern -->
-  
-     <g class="arm" transform="rotate(180 500 400)" >
-        <use xlink:href="#arm" x="500" y="400" class="arm1" />
-        <use xlink:href="#arm" x="500" y="400" class="arm1" transform="rotate(-72 500 400)" />
-        <use xlink:href="#arm" x="500" y="400" class="arm1" transform="rotate(-144 500 400)" />
-        <use xlink:href="#arm" x="500" y="400" class="arm1" transform="rotate(-216 500 400)" />
-        <use xlink:href="#arm" x="500" y="400" class="arm1" transform="rotate(-288 500 400)" />
-        <circle cx="500" cy="400" r="60" class="arm1" /> 
-        <circle cx="500" cy="400" r="40" class="arm2" />
-    </g>
-END;
-?>
-
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
 </svg>
