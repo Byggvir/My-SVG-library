@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="2.1"
+   viewBox="0 0 1602 2002"
+   width="1602px"
+   height="2002px"
+   fill="none"
+   stroke="black"
+   stroke-width="2"
+   id="svg1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="Thomas Arend, Wappen">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <style
+     id="style1">
+
+    .schild {
+        fill:#DA121A;
+        fill-opacity:1;
+        fill-rule:evenodd;
+        stroke:black;
+        stroke-width:5;
+        stroke-linecap:butt;
+        stroke-linejoin:miter;
+        stroke-miterlimit:4;
+        stroke-opacity:1;
+    }
+    .blau {
+        fill:#0047AB;
+        fill-opacity:1;
+        fill-rule:evenodd;
+        stroke:black;
+        stroke-width:5;
+        stroke-linecap:butt;
+        stroke-linejoin:miter;
+        stroke-miterlimit:4;
+        stroke-opacity:1;
+    }
+
+    .gold {
+        fill:#FFF200;
+        fill-opacity:1;
+        fill-rule:evenodd;
+        stroke:black;
+        stroke-width:5;
+        stroke-linecap:butt;
+        stroke-linejoin:miter;
+        stroke-miterlimit:4;
+        stroke-opacity:1;
+    }
+    
+    .arm {
+        fill:#00FFFF;
+        fill-opacity:1;
+        fill-rule:evenodd;
+        stroke:black;
+        stroke-width:2;
+        stroke-linecap:square;
+        stroke-linejoin:round;
+        stroke-miterlimit:4;
+        stroke-opacity:1;
+    }
+
+    .linie {
+        fill:none;
+        stroke:#000000;
+        stroke-width:2;
+        stroke-linecap:round;
+        stroke-linejoin:round;
+        stroke-miterlimit:4;
+        stroke-dasharray:none;
+    }
+    
+    .haut {
+        fill:#f2a772;
+        stroke:#000000;
+        stroke-width:2;
+        stroke-linecap:round;
+        stroke-linejoin:round;
+        stroke-miterlimit:4;
+        stroke-dasharray:none;
+    }
+    
+    .haar {
+         fill:#da121a;
+         stroke:#000000;
+         stroke-width:2;
+         stroke-linecap:round;
+         stroke-linejoin:round;
+         stroke-miterlimit:4;
+         stroke-dasharray:none;
+    }
+    .kleidung {
+         fill:#da121a;
+         stroke:#000000;
+         stroke-width:2;
+         stroke-linecap:round;
+         stroke-linejoin:round;
+         stroke-miterlimit:4;
+         stroke-dasharray:none;
+    }
+    .lance {
+         fill:#da121a;
+         stroke:#000000;
+         stroke-width:2;
+         stroke-linecap:round;
+         stroke-linejoin:round;
+         stroke-miterlimit:4;
+         stroke-dasharray:none;
+    }
+    .schild {
+         fill:#da121a;
+         stroke:#000000;
+         stroke-width:2;
+         stroke-linecap:round;
+         stroke-linejoin:round;
+         stroke-miterlimit:4;
+         stroke-dasharray:none;
+    }
+
+    .guertel {
+         fill:#fcdd09;
+         stroke:#000000;
+         stroke-width:2;
+         stroke-linecap:round;
+         stroke-linejoin:round;
+         stroke-miterlimit:4;
+         stroke-dasharray:none;
+    }
+
+    .schildzier {
+         fill:#fcdd09;
+         stroke:#000000;
+         stroke-width:2;
+         stroke-linecap:round;
+         stroke-linejoin:round;
+         stroke-miterlimit:4;
+         stroke-dasharray:none;
+    }
+    .fuss {
+        fill:#fff200;
+        fill-opacity:1;
+        stroke:black;
+        stroke-width:2.0
+    }
+
+    </style>
+    
+<!-- Wappenhintergrund -->
+
+<g  
+    id="schild">
+    
+    <path
+        id="schildflaeche"
+        class="schild"
+        d="M 0,0 h 1600 v 1200 a 800 800 0 1 1 -1600 0 z " />
+</g>
+
+<g
+    id="gtop">
+    
+    <path
+        id="top"
+        class="blau"
+        d="M 80,50 h 1440 L 800,950 z " />
+
+</g>
+
+<g
+    id="gleft">
+    <path
+        id="left"
+        class="gold"
+        d="M 40,100 l 720,900 l -558.58036189496,668.296434273953 A 760,760 0 0 1 40,1200 Z"
+    />
+</g>
+
+<g
+    id="gright">
+    <path
+        id="right"
+        class="blau"
+        d="M 1560,100 l -720,900 l 558.58036189496,668.296434273953 A 760,760 0 0 0 1560,1200 Z"
+    />
+  
+</g>
+
+
+<g
+    id="gbottom">
+    <path
+        id="bottom"
+        class="gold"
+        d="m 800,1050 l 556.411233412291,667.693480094749 A 760,760 0 0 1 243.588766587709,1717.693480094749 Z"
+    />
+</g>
+
+<!-- Ende Hintergrund -->
+  
+</svg>
