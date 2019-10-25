@@ -130,19 +130,6 @@
     <clipPath id="door">
         <use xlink:href="#path-door" x="0" y="0" />
         
-        <!--path 
-            d="
-                m 0 0
-                v 2000
-                h 500
-                v -1000
-                a 500,500 0,0,1 1000,0
-                v 1000
-                h 500
-                v -2000
-                z
-            "
-        /-->
     </clipPath>
 </defs>
     
@@ -198,52 +185,73 @@
 
 <!-- Wand -->
 <defs id="defs-wall-rows">
-    <g id="wall-rows" >
+    <g id="wall-rows" transfer="translate(2.5,2.5)" >
         <g id="wall-row1" >
-            <use xlink:href="#gwall-brick1" x="0" y="0" />
-            <use xlink:href="#gwall-brick1" x="200" y="0" />
-            <use xlink:href="#gwall-brick1" x="400" y="0" />
-            <use xlink:href="#gwall-brick1" x="600" y="0" />
-            <use xlink:href="#gwall-brick1" x="800" y="0" />
-            <use xlink:href="#gwall-brick1" x="1000" y="0" />
-            <use xlink:href="#gwall-brick1" x="1200" y="0" />
-            <use xlink:href="#gwall-brick1" x="1400" y="0" />
-            <use xlink:href="#gwall-brick1" x="1600" y="0" />
-            <use xlink:href="#gwall-brick1" x="1800" y="0" />
+            <use xlink:href="#gwall-brick1" x="2.5" y="2.5" />
+            <use xlink:href="#gwall-brick1" x="202.5" y="2.5" />
+            <use xlink:href="#gwall-brick1" x="402.5" y="2.5" />
+            <use xlink:href="#gwall-brick1" x="602.5" y="2.5" />
+            <use xlink:href="#gwall-brick1" x="802.5" y="2.5" />
+            <use xlink:href="#gwall-brick1" x="1002.5" y="2.5" />
+            <use xlink:href="#gwall-brick1" x="1202.5" y="2.5" />
+            <use xlink:href="#gwall-brick1" x="1402.5" y="2.5" />
+            <use xlink:href="#gwall-brick1" x="1602.5" y="2.5" />
+            <use xlink:href="#gwall-brick1" x="1802.5" y="2.5" />
         </g>
         <g id="wall-row2" >
-            <use xlink:href="#gwall-brick2" x="0" y="100" />
-            <use xlink:href="#gwall-brick1" x="100" y="100" />
-            <use xlink:href="#gwall-brick1" x="300" y="100" />
-            <use xlink:href="#gwall-brick1" x="500" y="100" />
-            <use xlink:href="#gwall-brick1" x="700" y="100" />
-            <use xlink:href="#gwall-brick1" x="900" y="100" />
-            <use xlink:href="#gwall-brick1" x="1100" y="100" />
-            <use xlink:href="#gwall-brick1" x="1300" y="100" />
-            <use xlink:href="#gwall-brick1" x="1500" y="100" />
-            <use xlink:href="#gwall-brick1" x="1700" y="100" />
-            <use xlink:href="#gwall-brick2" x="1900" y="100" />
+            <use xlink:href="#gwall-brick2" x="2.5" y="102.5" />
+            <use xlink:href="#gwall-brick1" x="102.5" y="102.5" />
+            <use xlink:href="#gwall-brick1" x="302.5" y="102.5" />
+            <use xlink:href="#gwall-brick1" x="502.5" y="102.5" />
+            <use xlink:href="#gwall-brick1" x="702.5" y="102.5" />
+            <use xlink:href="#gwall-brick1" x="902.5" y="102.5" />
+            <use xlink:href="#gwall-brick1" x="1102.5" y="102.5" />
+            <use xlink:href="#gwall-brick1" x="1302.5" y="102.5" />
+            <use xlink:href="#gwall-brick1" x="1502.5" y="102.5" />
+            <use xlink:href="#gwall-brick1" x="1702.5" y="102.5" />
+            <use xlink:href="#gwall-brick2" x="1902.5" y="102.5" />
         </g>
     
     </g>
 </defs>
     
-<g id="wall"  clip-path="url(#door)">
+<defs id="defs-wall-rows-small">
+    <g id="wall-rows-small" >
+        <g id="wall-row1-small" >
+            <use xlink:href="#gwall-brick1" x="2.5" y="2.5" />
+            <use xlink:href="#gwall-brick1" x="202.5" y="2.5" />
+            <use xlink:href="#gwall-brick2" x="402.5" y="2.5" />
+            <use xlink:href="#gwall-brick2" x="1502.5" y="2.5" />
+            <use xlink:href="#gwall-brick1" x="1602.5" y="2.5" />
+            <use xlink:href="#gwall-brick1" x="1802.5" y="2.5" />
+            
+        </g>
+        <g id="wall-row2-small" >
+            <use xlink:href="#gwall-brick2" x="2.5" y="102.5" />
+            <use xlink:href="#gwall-brick1" x="102.5" y="102.5" />
+            <use xlink:href="#gwall-brick1" x="302.5" y="102.5" />
+            <use xlink:href="#gwall-brick1" x="1502.5" y="102.5" />
+            <use xlink:href="#gwall-brick1" x="1702.5" y="102.5" />
+            <use xlink:href="#gwall-brick2" x="1902.5" y="102.5" />
+        </g>
+    
+    </g>
+</defs>
+<g id="wall"  clip-path="url(#door)" >
     <use xlink:href="#wall-rows" x="0" y="0" />
     <use xlink:href="#wall-rows" x="0" y="200" />
     <use xlink:href="#wall-rows" x="0" y="400" />
     <use xlink:href="#wall-rows" x="0" y="600" />
     <use xlink:href="#wall-rows" x="0" y="800" />
-    <use xlink:href="#wall-rows" x="0" y="1000" />
-    <use xlink:href="#wall-rows" x="0" y="1200" />
-    <use xlink:href="#wall-rows" x="0" y="1400" />
-    <use xlink:href="#wall-rows" x="0" y="1600" />
-    <use xlink:href="#wall-rows" x="0" y="1800" />
+    <use xlink:href="#wall-rows-small" x="0" y="1000" />
+    <use xlink:href="#wall-rows-small" x="0" y="1200" />
+    <use xlink:href="#wall-rows-small" x="0" y="1400" />
+    <use xlink:href="#wall-rows-small" x="0" y="1600" />
+    <use xlink:href="#wall-rows-small" x="0" y="1800" />
 </g>
 
-    <use xlink:href="#path-door" x="0" y="0" stroke="4" />
     
-<g transform="translate (1000,1000) rotate(180 0 0)" >
+<g transform="translate (1000,997.5) rotate(180 0 0)" >
     <use xlink:href="#garc-brick-center" x="0" y="0" />
     <g id="left-arc"  >
         <use xlink:href="#garc-brick" x="0" y="0" transform="rotate(-12 0 0)" />
