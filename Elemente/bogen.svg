@@ -2,91 +2,91 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:cc="http://creativecommons.org/ns#"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-    width="2000px"
-    height="2000px"
-    stroke="black"
-    fill="none"
-    stroke-width="2"
-    viewBox="0 0 2000 2000"
-    version="1.1"
-    id="svg27"
-    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-    sodipodi:docname="bogen.svg">
-<defs
-    id="defs21" />
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2000px"
+   height="2000px"
+   stroke="black"
+   fill="none"
+   stroke-width="2"
+   viewBox="0 0 2000 2000"
+   version="1.1"
+   id="svg27"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="bogen.svg">
+  <defs
+     id="defs21" />
   <sodipodi:namedview
-    id="base"
-    pagecolor="#ffffff"
-    bordercolor="#666666"
-    borderopacity="1.0"
-    inkscape:pageopacity="0.0"
-    inkscape:pageshadow="2"
-    inkscape:zoom="2.8"
-    inkscape:cx="319.1878"
-    inkscape:cy="560"
-    inkscape:document-units="px"
-    inkscape:current-layer="layer1"
-    showgrid="true"
-    inkscape:window-width="1920"
-    inkscape:window-height="1015"
-    inkscape:window-x="0"
-    inkscape:window-y="0"
-    inkscape:window-maximized="1">
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="707.63355"
+     inkscape:cy="1518.5377"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg27"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
     <inkscape:grid
-        type="xygrid"
-        id="grid34" />
+       type="xygrid"
+       id="grid34" />
   </sodipodi:namedview>
-<metadata
-    id="metadata5">
+  <metadata
+     id="metadata5">
     <rdf:RDF>
-        <cc:Work
-            rdf:about="">
+      <cc:Work
+         rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Wand mit Tor</dc:title>
         <cc:license
-            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
         <dc:creator>
-            <cc:Agent>
-                <dc:title>Thomas Arend</dc:title>
-            </cc:Agent>
+          <cc:Agent>
+            <dc:title>Thomas Arend</dc:title>
+          </cc:Agent>
         </dc:creator>
         <dc:language>Deutsch</dc:language>
         <dc:date>14.10.2019</dc:date>
         <dc:rights>
-            <cc:Agent>
-                <dc:title>Wand mit Tor</dc:title>
-            </cc:Agent>
+          <cc:Agent>
+            <dc:title>Wand mit Tor</dc:title>
+          </cc:Agent>
         </dc:rights>
         <dc:publisher>
-            <cc:Agent>
-                <dc:title>Thomas Arend,Rheinbach</dc:title>
-            </cc:Agent>
+          <cc:Agent>
+            <dc:title>Thomas Arend,Rheinbach</dc:title>
+          </cc:Agent>
         </dc:publisher>
         <dc:description>Wand mit Tor</dc:description>
-        </cc:Work>
-        <cc:License
-            rdf:about="http://creativecommons.org/publicdomain/zero/1.0/" >
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Distribution" />
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        </cc:License>
+      </cc:License>
     </rdf:RDF>
-</metadata>
-
-<style>
+  </metadata>
+  <style
+     id="style6">
     .stone1 {
         fill:#808070;
         fill-opacity:1;
@@ -109,161 +109,499 @@
     }
 
 </style>
-    <!-- Clip-Path -->
-<defs id="defs-doorcliping" >
-        <path id="path-door" 
-            d="
-                m 0 0
-                v 2000
-                h 500
-                v -1000
-                a 500,500 0,0,1 1000,0
-                v 1000
-                h 500
-                v -2000
-                z
-            "
-        />
-</defs>
-
-<defs id="cliping" >
-    <clipPath id="door">
-        <use xlink:href="#path-door" x="0" y="0" />
-        
+  <!-- Clip-Path -->
+  <defs
+     id="defs-doorcliping">
+    <path
+       id="path-door"
+       d="                 m 0 0                 v 2000                 h 500                 v -1000                 a 500,500 0,0,1 1000,0                 v 1000                 h 500                 v -2000                 z             " />
+  </defs>
+  <defs
+     id="cliping">
+    <clipPath
+       id="door">
+      <use
+         xlink:href="#path-door"
+         x="0"
+         y="0"
+         id="use10" />
     </clipPath>
-</defs>
+  </defs>
+  <!-- Bricks -->
+  <defs
+     id="arc-bricks">
+    <g
+       id="garc-brick">
+      <path
+         d="                 M 50.1736623684737 477.370509776771                 L 64.8076472259451 616.603575128329                 L -64.8076472259451 616.603575128329                 L -50.1736623684737 477.370509776771                 z             "
+         id="garc-brick1"
+         class="stone2" />
+    </g>
+    <g
+       id="garc-brick-center">
+      <path
+         d="                 M 48.0830931031206 457.480071869406                 L 66.8982164912982 636.494013035695                 L -66.8982164912982 636.494013035695                 L -48.0830931031206 457.480071869406                 z             "
+         id="garc-brick-center1"
+         class="stone2" />
+    </g>
+  </defs>
+  <defs
+     id="wall-bricks">
+    <g
+       id="gwall-brick1">
+      <rect
+         x="0"
+         y="0"
+         rx="5"
+         ry="5"
+         width="195"
+         height="95"
+         class="stone1"
+         id="rect19" />
+    </g>
+    <g
+       id="gwall-brick2">
+      <rect
+         x="0"
+         y="0"
+         rx="5"
+         ry="5"
+         width="95"
+         height="95"
+         class="stone1"
+         id="rect22" />
+    </g>
+  </defs>
+  <!-- Ende Bricks -->
+  <!-- Wand -->
+  <defs
+     id="defs-wall-rows">
+    <g
+       id="wall-rows"
+       transfer="translate(2.5,2.5)">
+      <g
+         id="wall-row1">
+        <use
+           xlink:href="#gwall-brick1"
+           x="2.5"
+           y="2.5"
+           id="use26" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="202.5"
+           y="2.5"
+           id="use28" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="402.5"
+           y="2.5"
+           id="use30" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="602.5"
+           y="2.5"
+           id="use32" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="802.5"
+           y="2.5"
+           id="use34" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="1002.5"
+           y="2.5"
+           id="use36" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="1202.5"
+           y="2.5"
+           id="use38" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="1402.5"
+           y="2.5"
+           id="use40" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="1602.5"
+           y="2.5"
+           id="use42" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="1802.5"
+           y="2.5"
+           id="use44" />
+      </g>
+      <g
+         id="wall-row2">
+        <use
+           xlink:href="#gwall-brick2"
+           x="2.5"
+           y="102.5"
+           id="use47" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="102.5"
+           y="102.5"
+           id="use49" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="302.5"
+           y="102.5"
+           id="use51" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="502.5"
+           y="102.5"
+           id="use53" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="702.5"
+           y="102.5"
+           id="use55" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="902.5"
+           y="102.5"
+           id="use57" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="1102.5"
+           y="102.5"
+           id="use59" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="1302.5"
+           y="102.5"
+           id="use61" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="1502.5"
+           y="102.5"
+           id="use63" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="1702.5"
+           y="102.5"
+           id="use65" />
+        <use
+           xlink:href="#gwall-brick2"
+           x="1902.5"
+           y="102.5"
+           id="use67" />
+      </g>
+    </g>
+  </defs>
+  <defs
+     id="defs-wall-rows-small">
+    <g
+       id="wall-rows-small">
+      <g
+         id="wall-row1-small">
+        <use
+           xlink:href="#gwall-brick1"
+           x="2.5"
+           y="2.5"
+           id="use72" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="202.5"
+           y="2.5"
+           id="use74" />
+        <use
+           xlink:href="#gwall-brick2"
+           x="402.5"
+           y="2.5"
+           id="use76" />
+        <use
+           xlink:href="#gwall-brick2"
+           x="1502.5"
+           y="2.5"
+           id="use78" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="1602.5"
+           y="2.5"
+           id="use80" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="1802.5"
+           y="2.5"
+           id="use82" />
+      </g>
+      <g
+         id="wall-row2-small">
+        <use
+           xlink:href="#gwall-brick2"
+           x="2.5"
+           y="102.5"
+           id="use85" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="102.5"
+           y="102.5"
+           id="use87" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="302.5"
+           y="102.5"
+           id="use89" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="1502.5"
+           y="102.5"
+           id="use91" />
+        <use
+           xlink:href="#gwall-brick1"
+           x="1702.5"
+           y="102.5"
+           id="use93" />
+        <use
+           xlink:href="#gwall-brick2"
+           x="1902.5"
+           y="102.5"
+           id="use95" />
+      </g>
+    </g>
+  </defs>
+  <g
+     id="wall"
+     clip-path="url(#door)">
+    <use
+       xlink:href="#wall-rows"
+       x="0"
+       y="0"
+       id="use100" />
+    <use
+       xlink:href="#wall-rows"
+       x="0"
+       y="200"
+       id="use102" />
+    <use
+       xlink:href="#wall-rows"
+       x="0"
+       y="400"
+       id="use104" />
+    <use
+       xlink:href="#wall-rows"
+       x="0"
+       y="600"
+       id="use106" />
+    <use
+       xlink:href="#wall-rows"
+       x="0"
+       y="800"
+       id="use108" />
+    <use
+       xlink:href="#wall-rows-small"
+       x="0"
+       y="1000"
+       id="use110" />
+    <use
+       xlink:href="#wall-rows-small"
+       x="0"
+       y="1200"
+       id="use112" />
+    <use
+       xlink:href="#wall-rows-small"
+       x="0"
+       y="1400"
+       id="use114" />
+    <use
+       xlink:href="#wall-rows-small"
+       x="0"
+       y="1600"
+       id="use116" />
+    <use
+       xlink:href="#wall-rows-small"
+       x="0"
+       y="1800"
+       id="use118" />
+  </g>
+  <g
+     transform="translate (1000,997.5) rotate(180 0 0)"
+     id="g140">
+    <use
+       xlink:href="#garc-brick-center"
+       x="0"
+       y="0"
+       id="use121" />
+    <g
+       id="left-arc">
+      <use
+         xlink:href="#garc-brick"
+         x="0"
+         y="0"
+         transform="rotate(-12 0 0)"
+         id="use123" />
+      <use
+         xlink:href="#garc-brick"
+         x="0"
+         y="0"
+         transform="rotate(-24 0 0)"
+         id="use125" />
+      <use
+         xlink:href="#garc-brick"
+         x="0"
+         y="0"
+         transform="rotate(-36 0 0)"
+         id="use127" />
+      <use
+         xlink:href="#garc-brick"
+         x="0"
+         y="0"
+         transform="rotate(-48 0 0)"
+         id="use129" />
+      <use
+         xlink:href="#garc-brick"
+         x="0"
+         y="0"
+         transform="rotate(-60 0 0)"
+         id="use131" />
+      <use
+         xlink:href="#garc-brick"
+         x="0"
+         y="0"
+         transform="rotate(-72 0 0)"
+         id="use133" />
+      <use
+         xlink:href="#garc-brick"
+         x="0"
+         y="0"
+         transform="rotate(-84 0 0)"
+         id="use135" />
+    </g>
+    <use
+       xlink:href="#left-arc"
+       x="0"
+       y="0"
+       transform="scale(-1,1)"
+       id="use138" />
+  </g>
+  <style
+     id="style1">
+    .gitter {
+        fill:#FFFF00;
+        fill-opacity:1;
+        fill-rule:evenodd;
+        stroke:#0000ff;
+        stroke-width:5;
+        stroke-linecap:butt;
+        stroke-linejoin:miter;
+        stroke-opacity:1;
+    }
+        
+    .schild {
+        fill:#DA121A;
+        fill-opacity:1;
+        fill-rule:evenodd;
+        stroke:black;
+        stroke-width:5;
+        stroke-linecap:butt;
+        stroke-linejoin:miter;
+        stroke-miterlimit:4;
+        stroke-opacity:1;
+    }
+    .blau {
+        fill:#0047AB;
+        fill-opacity:1;
+        fill-rule:evenodd;
+        stroke:black;
+        stroke-width:5;
+        stroke-linecap:butt;
+        stroke-linejoin:miter;
+        stroke-miterlimit:4;
+        stroke-opacity:1;
+    }
+
+    .gold {
+        fill:#FFF200;
+        fill-opacity:1;
+        fill-rule:evenodd;
+        stroke:black;
+        stroke-width:5;
+        stroke-linecap:butt;
+        stroke-linejoin:miter;
+        stroke-miterlimit:4;
+        stroke-opacity:1;
+    }
     
-<!-- Bricks -->
-  
-<defs id="arc-bricks">
-      
-    <g id="garc-brick" >
-
-        <path
-            d="
-                M 50.1736623684737	477.370509776771
-                L 64.8076472259451	616.603575128329
-                L -64.8076472259451	616.603575128329
-                L -50.1736623684737	477.370509776771
-                z
-            "
-            id="garc-brick1" 
-            class="stone2" 
-        />
-    </g>
-      
-    <g id="garc-brick-center" >
-        <path
-            d="
-                M 48.0830931031206	457.480071869406
-                L 66.8982164912982	636.494013035695
-                L -66.8982164912982	636.494013035695
-                L -48.0830931031206	457.480071869406
-                z
-            "
-            id="garc-brick-center1" 
-            class="stone2" 
-        />
-    </g>
-
-</defs>
-  
-<defs id="wall-bricks">
-      
-    <g id="gwall-brick1" >
-        <rect x="0" y="0" rx="5" ry="5" width="195" height="95" class="stone1" 
-        />
-    </g>
-      
-    <g id="gwall-brick2" >
-        <rect x="0" y="0" rx="5" ry="5" width="95" height="95" class="stone1" 
-        />
-    </g>
-
-</defs>
-<!-- Ende Bricks -->
-
-<!-- Wand -->
-<defs id="defs-wall-rows">
-    <g id="wall-rows" transfer="translate(2.5,2.5)" >
-        <g id="wall-row1" >
-            <use xlink:href="#gwall-brick1" x="2.5" y="2.5" />
-            <use xlink:href="#gwall-brick1" x="202.5" y="2.5" />
-            <use xlink:href="#gwall-brick1" x="402.5" y="2.5" />
-            <use xlink:href="#gwall-brick1" x="602.5" y="2.5" />
-            <use xlink:href="#gwall-brick1" x="802.5" y="2.5" />
-            <use xlink:href="#gwall-brick1" x="1002.5" y="2.5" />
-            <use xlink:href="#gwall-brick1" x="1202.5" y="2.5" />
-            <use xlink:href="#gwall-brick1" x="1402.5" y="2.5" />
-            <use xlink:href="#gwall-brick1" x="1602.5" y="2.5" />
-            <use xlink:href="#gwall-brick1" x="1802.5" y="2.5" />
-        </g>
-        <g id="wall-row2" >
-            <use xlink:href="#gwall-brick2" x="2.5" y="102.5" />
-            <use xlink:href="#gwall-brick1" x="102.5" y="102.5" />
-            <use xlink:href="#gwall-brick1" x="302.5" y="102.5" />
-            <use xlink:href="#gwall-brick1" x="502.5" y="102.5" />
-            <use xlink:href="#gwall-brick1" x="702.5" y="102.5" />
-            <use xlink:href="#gwall-brick1" x="902.5" y="102.5" />
-            <use xlink:href="#gwall-brick1" x="1102.5" y="102.5" />
-            <use xlink:href="#gwall-brick1" x="1302.5" y="102.5" />
-            <use xlink:href="#gwall-brick1" x="1502.5" y="102.5" />
-            <use xlink:href="#gwall-brick1" x="1702.5" y="102.5" />
-            <use xlink:href="#gwall-brick2" x="1902.5" y="102.5" />
-        </g>
+    .linie {
+        fill:none;
+        stroke:#000000;
+        stroke-width:2;
+        stroke-linecap:round;
+        stroke-linejoin:round;
+        stroke-miterlimit:4;
+        stroke-dasharray:none;
+    }
     
-    </g>
-</defs>
+    .haut {
+        fill:#f2a772;
+        stroke:#000000;
+        stroke-width:2;
+        stroke-linecap:round;
+        stroke-linejoin:round;
+        stroke-miterlimit:4;
+        stroke-dasharray:none;
+    }
     
-<defs id="defs-wall-rows-small">
-    <g id="wall-rows-small" >
-        <g id="wall-row1-small" >
-            <use xlink:href="#gwall-brick1" x="2.5" y="2.5" />
-            <use xlink:href="#gwall-brick1" x="202.5" y="2.5" />
-            <use xlink:href="#gwall-brick2" x="402.5" y="2.5" />
-            <use xlink:href="#gwall-brick2" x="1502.5" y="2.5" />
-            <use xlink:href="#gwall-brick1" x="1602.5" y="2.5" />
-            <use xlink:href="#gwall-brick1" x="1802.5" y="2.5" />
-            
-        </g>
-        <g id="wall-row2-small" >
-            <use xlink:href="#gwall-brick2" x="2.5" y="102.5" />
-            <use xlink:href="#gwall-brick1" x="102.5" y="102.5" />
-            <use xlink:href="#gwall-brick1" x="302.5" y="102.5" />
-            <use xlink:href="#gwall-brick1" x="1502.5" y="102.5" />
-            <use xlink:href="#gwall-brick1" x="1702.5" y="102.5" />
-            <use xlink:href="#gwall-brick2" x="1902.5" y="102.5" />
-        </g>
-    
-    </g>
-</defs>
-<g id="wall"  clip-path="url(#door)" >
-    <use xlink:href="#wall-rows" x="0" y="0" />
-    <use xlink:href="#wall-rows" x="0" y="200" />
-    <use xlink:href="#wall-rows" x="0" y="400" />
-    <use xlink:href="#wall-rows" x="0" y="600" />
-    <use xlink:href="#wall-rows" x="0" y="800" />
-    <use xlink:href="#wall-rows-small" x="0" y="1000" />
-    <use xlink:href="#wall-rows-small" x="0" y="1200" />
-    <use xlink:href="#wall-rows-small" x="0" y="1400" />
-    <use xlink:href="#wall-rows-small" x="0" y="1600" />
-    <use xlink:href="#wall-rows-small" x="0" y="1800" />
-</g>
+    .haar {
+         fill:#da121a;
+         stroke:#000000;
+         stroke-width:2;
+         stroke-linecap:round;
+         stroke-linejoin:round;
+         stroke-miterlimit:4;
+         stroke-dasharray:none;
+    }
+    .kleidung {
+         fill:#da121a;
+         stroke:#000000;
+         stroke-width:2;
+         stroke-linecap:round;
+         stroke-linejoin:round;
+         stroke-miterlimit:4;
+         stroke-dasharray:none;
+    }
+    .lance {
+         fill:#da121a;
+         stroke:#000000;
+         stroke-width:2;
+         stroke-linecap:round;
+         stroke-linejoin:round;
+         stroke-miterlimit:4;
+         stroke-dasharray:none;
+    }
+    .schild {
+         fill:#da121a;
+         stroke:#000000;
+         stroke-width:2;
+         stroke-linecap:round;
+         stroke-linejoin:round;
+         stroke-miterlimit:4;
+         stroke-dasharray:none;
+    }
 
-    
-<g transform="translate (1000,997.5) rotate(180 0 0)" >
-    <use xlink:href="#garc-brick-center" x="0" y="0" />
-    <g id="left-arc"  >
-        <use xlink:href="#garc-brick" x="0" y="0" transform="rotate(-12 0 0)" />
-        <use xlink:href="#garc-brick" x="0" y="0" transform="rotate(-24 0 0)" />
-        <use xlink:href="#garc-brick" x="0" y="0" transform="rotate(-36 0 0)" />
-        <use xlink:href="#garc-brick" x="0" y="0" transform="rotate(-48 0 0)" />
-        <use xlink:href="#garc-brick" x="0" y="0" transform="rotate(-60 0 0)" />
-        <use xlink:href="#garc-brick" x="0" y="0" transform="rotate(-72 0 0)" />
-        <use xlink:href="#garc-brick" x="0" y="0" transform="rotate(-84 0 0)" />
-    </g>
-    <use xlink:href="#left-arc" x="0" y="0" transform="scale(-1,1)" />
+    .guertel {
+         fill:#fcdd09;
+         stroke:#000000;
+         stroke-width:2;
+         stroke-linecap:round;
+         stroke-linejoin:round;
+         stroke-miterlimit:4;
+         stroke-dasharray:none;
+    }
 
-</g>
+    .schildzier {
+         fill:#fcdd09;
+         stroke:#000000;
+         stroke-width:2;
+         stroke-linecap:round;
+         stroke-linejoin:round;
+         stroke-miterlimit:4;
+         stroke-dasharray:none;
+    }
 
+    </style>
 </svg>
