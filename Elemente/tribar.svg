@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<svg version="1.2" baseProfile="tiny" 
+	width="297mm" height="210mm" 
+	viewBox="0 0 297 210" 
+	preserveAspectRatio="xMidYMid"
+	fill="blue"
+	fill-rule="evenodd"
+	stroke="black"
+	stroke-width="1"
+	stroke-linejoin="round"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:ooo="http://xml.openoffice.org/svg/export"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xml:space="preserve">
+
+<defs class="ClipPathGroup">
+
+<g id="bar">
+<path 
+	id="bar1" 
+	d="
+	m	5	0
+	l	-5	8.66025404
+	l	25	43.30127019
+	l	20	-34.64101615
+	l	-10	0
+	l	-10	17.32050808
+	z		
+	" 
+	/>
+</g>
+</defs>
+
+
+<g id="tribar" transform="translate (10,70) scale (1,-1) rotate(30 0 8.66025404)">
+
+	<use xlink:href="#bar" fill="#4040ff" />
+	<use xlink:href="#bar" fill="#7070ff" transform="translate(-5 -8.66025404) rotate(120 30 25.98076211)"/>
+	<use xlink:href="#bar" fill="#d0d0ff" transform="translate(5 -8.66025404) rotate(240 30 25.98076211)"/>
+</g>
+
+</svg>
