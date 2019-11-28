@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Muster.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Muster SVG</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thomas Arend</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>Deutsch</dc:language>
+        <dc:date>14.10.2019</dc:date>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Thomas Arend</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:description>Muster SVG</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+    <style
+     id="kreise">
+    .kreis {
+        fill:#FFFF00;
+        fill-opacity:1;
+        fill-rule:evenodd;
+        stroke:#0000ff;
+        stroke-width:5;
+        stroke-linecap:butt;
+        stroke-linejoin:miter;
+        stroke-opacity:1;
+    }
+        
+    </style>
+  <defs
+     id="defs7">
+    <g
+        id="kreis" >
+        <circle
+         cx="105"
+         cy="60"
+         r="40" 
+         class="kreis" />
+    </g>
+  </defs>
+
+  <use xlink:href="#kreis" x="0" y="0" />
+  <line x1="105" y1="100" x2="105" y2="120" class="kreis" />
+  <rect x="50" y="120" width="110" height="160" class="kreis" />
+</svg>

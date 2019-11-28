@@ -162,16 +162,17 @@ print <<<END
 
     <!-- Seestern -->
   
-     <g class="arm" transform="rotate(180 500 400)" >
-        <use xlink:href="#arm" x="500" y="400" class="arm1" />
-        <use xlink:href="#arm" x="500" y="400" class="arm1" transform="rotate(-72 500 400)" />
-        <use xlink:href="#arm" x="500" y="400" class="arm1" transform="rotate(-144 500 400)" />
-        <use xlink:href="#arm" x="500" y="400" class="arm1" transform="rotate(-216 500 400)" />
-        <use xlink:href="#arm" x="500" y="400" class="arm1" transform="rotate(-288 500 400)" />
-        <circle cx="500" cy="400" r="60" class="arm1" /> 
-        <circle cx="500" cy="400" r="40" class="arm2" />
-    </g>
-END;
-?>
+     <g class="arm" transform="rotate(180 500 500)" >
 
+END;
+    for ($i = 0; $i <= 4; $i++) {
+        $w = $i * 72;
+        print <<<END
+        <use xlink:href="#arm" x="500" y="500" class="arm1" transform="rotate($w 500 500)" />\n
+END;
+}
+?>
+        <circle cx="500" cy="500" r="60" class="arm1" /> 
+        <circle cx="500" cy="500" r="40" class="arm2" />
+    </g>
 </svg>
