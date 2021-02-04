@@ -438,7 +438,8 @@
   
 <g
     id="fuss"
-    transform="translate(1000,1650) , scale(3)">
+    transform="translate(1000,1650) , scale(3)" 
+    >
     <g
         id="g832"
         transform="rotate(90,284.74491,-74.228285)">

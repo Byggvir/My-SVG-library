@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   viewBox="-10 -10 770 230"
+   width="780"
+   height="240"
+   id="svg1"
+   xml:space="preserve"
+   sodipodi:docname="Krypto.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata82"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1015"
+   id="namedview80"
+   showgrid="false"
+   inkscape:zoom="7.1238095"
+   inkscape:cx="561.05321"
+   inkscape:cy="182.02411"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="id6" />
+
+    <style>
+    .JACK {
+        fill: rgb(192,192,192);
+        stroke: white;
+    }
+    
+    .LAN { 
+        fill: yellow;
+        stroke: white;
+    }
+
+    .SLAN { 
+        fill: red;
+        stroke: white;
+    }
+  
+    .WAN { 
+        fill: blue;
+        stroke: white;
+    }
+     
+    </style>
+
+
+<defs
+   id="Definitionen">
+
+<g
+   id="rj45jackx2">
+    <rect
+   id="rj45jack1"
+    class="SLAN"
+x="0"
+   y="0"
+   width="40"
+   height="40"
+   rx="2"
+   ry="2" />
+    <rect
+   id="rj45jack2"
+    class="WLAN"
+   x="0"
+   y="60"
+   width="40"
+   height="40"
+   rx="2"
+   ry="2" />
+</g>
+
+</defs>
+
+
+<g
+   id="switch">
+    <g
+   id="g69"
+   transform="translate(0,100)">
+        <rect
+   id="front"
+   x="0"
+   y="0"
+   width="550"
+   height="120"
+   rx="0"
+   ry="0"
+   style="fill:blue;stroke:blue;stroke-width:2" />
+        <g
+   id="rj45panel"
+   transform="translate(120,10)">
+            <use
+   xlink:href="#rj45jackx2"
+   id="use48"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+            <use
+   xlink:href="#rj45jackx2"
+   transform="translate(50)"
+   id="use50"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+            <use
+   xlink:href="#rj45jackx2"
+   transform="translate(100)"
+   id="use52"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+            <use
+   xlink:href="#rj45jackx2"
+   transform="translate(150)"
+   id="use54"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+            <use
+   xlink:href="#rj45jackx2"
+   transform="translate(200)"
+   id="use56"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+            <use
+   xlink:href="#rj45jackx2"
+   transform="translate(250)"
+   id="use58"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+            <use
+   xlink:href="#rj45jackx2"
+   transform="translate(300)"
+   id="use60"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+            <use
+   xlink:href="#rj45jackx2"
+   transform="translate(350)"
+   id="use62"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+        </g>
+    
+        <circle
+   cx="60"
+   cy="60"
+   r="40"
+   id="circle65"
+   style="fill:green;stroke:black" />
+        <circle
+   cx="60"
+   cy="60"
+   r="25"
+   id="circle67"
+   style="fill:#90ee90;stroke:black" />
+	</g>
+    
+	<g
+   id="case"
+   style="fill:#a9a9a9;stroke:black;stroke-width:2">
+        <path
+   d="m 0,100 l 200,-100 h 550 l -200,100 z"
+   id="Top"
+   inkscape:connector-curvature="0" />
+        <path
+   d="m 550,100 l 200,-100 v 120 l -200,100 z"
+   id="Right"
+   inkscape:connector-curvature="0" /> 
+        <text
+   x="161.23763"
+   y="99.490875"
+   id="text75"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:108.86434174px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:white;stroke:white;stroke-width:1.32761395"
+   transform="matrix(1.3261193,0,-1.3261193,0.75407997,0,0)">Krypto        </text>
+
+
+	
+	<g
+   transform="matrix(0.01413108,-0.00698225,0.00868128,0.00976711,518.44329,127.068)"
+   class="Page"
+   id="g72"><g
+     class="Group"
+     id="g70"><g
+       class="com.sun.star.drawing.PolyPolygonShape"
+       id="g41"><g
+         id="id3"><rect
+           class="BoundingBox"
+           x="5799"
+           y="2699"
+           width="7103"
+           height="1603"
+           id="rect34"
+           style="fill:none;stroke:none" /><path
+           d="m 5800,4300 v -1600 h 7100 v 1600 z"
+           id="path36"
+           inkscape:connector-curvature="0"
+           style="fill:black;stroke:none" /><path
+           d="m 5800,4300 v -1600 h 7100 v 1600 z"
+           id="path38"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:black" /></g></g><g
+       class="com.sun.star.drawing.PolyPolygonShape"
+       id="g50"><g
+         id="id4"><rect
+           class="BoundingBox"
+           x="9299"
+           y="4299"
+           width="3103"
+           height="1703"
+           id="rect43"
+           style="fill:none;stroke:none" /><path
+           d="m 9300,6000 v -1700 h 3100 v 1700 z"
+           id="path45"
+           inkscape:connector-curvature="0"
+           style="fill:black;stroke:none" /><path
+           d="m 9300,6000 v -1700 h 3100 v 1700 z"
+           id="path47"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:black" /></g></g><g
+       class="Group"
+       id="g68"><g
+         class="com.sun.star.drawing.ClosedBezierShape"
+         id="g57"><g
+           id="id5"><rect
+             class="BoundingBox"
+             x="999"
+             y="999"
+             width="5003"
+             height="5003"
+             id="rect52"
+             style="fill:none;stroke:none" /><path
+             d="m 6001,3501 c 0,438 -116,870 -335,1250 c -219,380 -535,696 -915,915 c -380,219 -812,335 -1250,335 c -439,0 -871,-116 -1251,-335 c -380,-219 -696,-535 -915,-915 c -219,-380 -335,-812 -335,-1250 c 0,-439 116,-871 335,-1251 c 219,-380 535,-696 915,-915 c 380,-219 812,-335 1250,-335 c 439,0 871,116 1251,335 c 380,219 696,535 915,915 c 219,380 335,812 335,1250 z m -1250,0 c 0,219 -58,435 -168,625 c -109,190 -267,348 -457,457 c -190,110 -406,168 -625,168 c -220,0 -436,-58 -626,-168 c -190,-109 -348,-267 -457,-457 c -110,-190 -168,-406 -168,-625 c 0,-220 58,-436 168,-626 c 109,-190 267,-348 457,-457 c 190,-110 406,-168 625,-168 c 220,0 436,58 626,168 c 190,109 348,267 457,457 c 110,190 168,406 168,625 z"
+             id="path54"
+             inkscape:connector-curvature="0"
+             style="fill:#c9211e;stroke:none" /></g></g><g
+         class="com.sun.star.drawing.OpenBezierShape"
+         id="g66"><g
+           id="id6"><rect
+             class="BoundingBox"
+             x="999"
+             y="999"
+             width="5004"
+             height="5004"
+             id="rect59"
+             style="fill:none;stroke:none" />
+            <path
+             d="m 6001,3501 c 0,438 -116,870 -335,1250 c -219,380 -535,696 -915,915 c -380,219 -812,335 -1250,335 c -439,0 -871,-116 -1251,-335 c -380,-219 -696,-535 -915,-915 c -219,-380 -335,-812 -335,-1250 c 0,-439 116,-871 335,-1251 c 219,-380 535,-696 915,-915 c 380,-219 812,-335 1250,-335 c 439,0 871,116 1251,335 c 380,219 696,535 915,915 c 219,380 335,812 335,1250 z"
+             id="path61"
+             inkscape:connector-curvature="0"
+             style="fill:red;stroke:black" /><path
+             d="m 4751,3501 c 0,219 -58,435 -168,625 c -109,190 -267,348 -457,457 c -190,110 -406,168 -625,168 c -220,0 -436,-58 -626,-168 c -190,-109 -348,-267 -457,-457 c -110,-190 -168,-406 -168,-625 c 0,-220 58,-436 168,-626 c 109,-190 267,-348 457,-457 c 190,-110 406,-168 625,-168 c 220,0 436,58 626,168 c 190,109 348,267 457,457 c 110,190 168,406 168,625"
+             id="path63"
+             inkscape:connector-curvature="0"
+             style="fill:gray;stroke:black;fill-opacity:1;stroke-width:2.03255182;stroke-miterlimit:4;stroke-dasharray:none" /></g></g></g></g></g></g>
+</g>
+
+</svg>
